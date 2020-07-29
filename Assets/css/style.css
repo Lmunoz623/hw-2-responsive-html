@@ -14,7 +14,7 @@ h2 {
     font-size: 40px;
 }
 
-form {
+form, main {
     width: 500px; 
     margin: auto;
     background-color: blanchedalmond; 
