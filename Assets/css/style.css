@@ -14,13 +14,12 @@ h2 {
     font-size: 40px;
 }
 
-form, main {
-    width: 500px; 
+main, form {
+    width: fit-content;
     margin: auto;
     background-color: blanchedalmond; 
     border: solid; 
     border-color: darkgrey; 
-    border; padding: 20px; 
     margin-top: 50px;"
 }
 
@@ -32,3 +31,10 @@ form, main {
     margin: border-box;
     height: 200px;
 }
+
+.content {
+    margin: 10px;
+}
+
+
+
